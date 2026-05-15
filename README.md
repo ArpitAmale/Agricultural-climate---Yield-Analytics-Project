@@ -80,6 +80,6 @@ Arpit Amale
 
 Aspiring Data Analyst
 
-LinkedIn: www.linkedin.com/in/ arpit-amale-89796a27b
+LinkedIn: https://www.linkedin.com/in/arpit-amale-89796a27b
 
 GitHub: https://github.com/ArpitAmale Email: arpitamale100@gmail.com
