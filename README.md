@@ -72,3 +72,14 @@ Build a KPI summary page with card visuals for quick executive view
 Integrate real-time data via Snowflake Streams + AWS Lambda
 
 Add predictive yield modeling using Python / Azure ML
+
+
+
+## 👤 Author
+Arpit Amale
+
+Aspiring Data Analyst
+
+LinkedIn: www.linkedin.com/in/ arpit-amale-89796a27b
+
+GitHub: https://github.com/ArpitAmale Email: arpitamale100@gmail.com
